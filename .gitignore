@@ -1,0 +1,35 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.ap_
+*.aab
+
+# Android
+.idea/
+.DS_Store
+*.iml
+*.iws
+*.ipr
+local.properties
+
+# Environment
+.env
+.env.local
+
+# IDE
+*.swp
+*.swo
+*~
+.vscode/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+
+# Build
+bin/
+out/
